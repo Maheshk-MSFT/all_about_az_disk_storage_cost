@@ -43,3 +43,14 @@ https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-performanc
 - Not supported for disks recovered with Azure Site Recovery or Azure Backup.
 - Can't be enabled in the Azure portal.
 - https://learn.microsoft.com/en-us/training/modules/optimize-performance-and-costs-using-azure-disk-storage/
+  
+<img width="913" alt="image" src="https://github.com/Maheshk-MSFT/all_about_az_disk_storage_cost/assets/61469290/15f65c4a-c9e8-45d5-aa52-b53e531e8897">
+
+<img width="729" alt="image" src="https://github.com/Maheshk-MSFT/all_about_az_disk_storage_cost/assets/61469290/5331c90e-cb96-4592-9db4-59f5297b2a84">
+
+![image](https://github.com/Maheshk-MSFT/all_about_az_disk_storage_cost/assets/61469290/c2b8642a-f383-460d-bc48-3db683846a38)
+
+![image](https://github.com/Maheshk-MSFT/all_about_az_disk_storage_cost/assets/61469290/5dc202eb-89e0-4292-a0cf-3305bfc83362)
+
+![image](https://github.com/Maheshk-MSFT/all_about_az_disk_storage_cost/assets/61469290/ffa09ee2-c0fe-41c3-b3ca-98f1f42d9aba)
+
