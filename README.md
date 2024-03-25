@@ -54,3 +54,10 @@ https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-performanc
 
 ![image](https://github.com/Maheshk-MSFT/all_about_az_disk_storage_cost/assets/61469290/ffa09ee2-c0fe-41c3-b3ca-98f1f42d9aba)
 
+![image](https://github.com/Maheshk-MSFT/all_about_az_disk_storage_cost/assets/61469290/283654ee-997a-49cd-bc2a-55b0f6e97e8a)
+
+![image](https://github.com/Maheshk-MSFT/all_about_az_disk_storage_cost/assets/61469290/1de63f16-867a-4aff-906b-10356a531c14)
+
+![image](https://github.com/Maheshk-MSFT/all_about_az_disk_storage_cost/assets/61469290/785e35ef-c40d-4570-88d1-95bcf4b88830)
+
+https://learn.microsoft.com/en-us/shows/learn-live/azure-core-iaas-study-hall-ep18-optimize-performance-and-costs-by-using-azure-disk-storage?WT.mc_id=learnlive-20230330A
