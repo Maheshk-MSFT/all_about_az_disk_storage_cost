@@ -37,13 +37,11 @@
 				- 60 MB/s to 500 MB/s 
 				- minimize costs for less critical workloads and development or test environments.
 			
-' Performance plus (preview) '
+** Performance plus (preview) ** 
 The Input/Output Operations Per Second (IOPS) and throughput limits for Premium SSD, Standard SSD, and Standard HDD that are 513 GiB and larger can be increased by enabling performance plus. 
 https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-performance?tabs=azure-cli
 - Enabling performance plus (preview) improves the experience for workloads that require high IOPS and throughput, such as database and transactional workloads. There's no extra charge for enabling performance plus on a disk.
 -- Can only be enabled on new disk
 --Not supported for disks recovered with Azure Site Recovery or Azure Backup.
 -- Can't be enabled in the Azure portal.
-
-
-https://learn.microsoft.com/en-us/training/modules/optimize-performance-and-costs-using-azure-disk-storage/
+-- https://learn.microsoft.com/en-us/training/modules/optimize-performance-and-costs-using-azure-disk-storage/
